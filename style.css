@@ -1,0 +1,92 @@
+.bolim {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background: white;
+    margin: 20px 200px;
+}
+
+body {
+    background: #8a8787;
+}
+
+input {
+    border-radius: 10px;
+    width: 300px;
+    border: 1px;
+}
+
+.ggg {
+    width: 20px;
+    height: 20px;
+}
+
+.main {
+    color: cadetblue;
+}
+
+.shit {
+    color: red;
+}
+
+.eee {
+    color: darkgreen;
+}
+
+.sss {
+    color: aqua;
+}
+
+.gg {
+    color: darkgreen;
+}
+
+table {
+    margin: 0 auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+
+table,
+td,
+th {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.ddd {
+    border: 1px solid black;
+    padding: 10px;
+        border-radius: 10px;
+            width: 200px;
+
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    color: darkcyan;
+
+}
+.dvd{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+}
+.xxx{background-color: rgb(177, 194, 45);
+    color: cornflowerblue;
+    border: none;
+    border-radius: 10px;
+}
+button{
+width: 250px;
+padding: 7px;
+}
+select{
+width: 150px ;
+border-radius: 15px;
+}
